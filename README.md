@@ -2,7 +2,7 @@ IAMDOOGLY WAS SHADOW BANNED WE DONT KNOW WHY
 
 F3patch v1.2
 ============
-F.E.A.R. 3 co-op fix for Steam on Windows and Linux/Proton.
+F.E.A.R. 3 multiplayer/co-op fix for Steam on Windows and Linux/Proton.
 Only the host needs the patch.
 
 Install
@@ -14,7 +14,7 @@ Install
 
 Uninstall
 ---------------
-Restore your backed-up DLL or verify the game's files through Steam.
+Remove "steam_api.dll" and "fear3-coopfix.ini" then restore your backed-up DLL or verify the game's files through Steam.
 
 Code is free to use
 ---------------
