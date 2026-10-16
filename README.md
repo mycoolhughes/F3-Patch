@@ -1,6 +1,6 @@
 IAMDOOGLY WAS SHADOW BANNED WE DONT KNOW WHY
 
-F3patch v1.2
+F3patch
 ============
 F.E.A.R. 3 multiplayer/co-op fix for Steam on Windows and Linux/Proton.
 Only the host needs the patch but it will not hurt if everyone uses it
