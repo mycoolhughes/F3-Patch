@@ -9,7 +9,7 @@ Install
 ---------------
 1. Close the game and open its folder through Steam > Manage > Browse local files.
 2. Back up steam_api.dll somewhere outside the game folder.
-3. Copy this download's steam_api.dll beside F.E.A.R. 3.exe, replacing the DLL.
+3. Copy this download's steam_api.dll and fear3-coopfix.ini beside F.E.A.R. 3.exe, replacing the DLL.
 4. Start the game through Steam, host a private lobby and invite your friend.
 
 Uninstall
