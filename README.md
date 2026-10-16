@@ -1,2 +1,29 @@
-# F3-Patch
-A host-side F.E.A.R. 3 co-op patch that works around Steam denial-12 disconnects. Supports Windows and Linux/Proton with automatic Steam-friend detection and drag-and-drop installation.
+F3patch v1.2
+============
+F.E.A.R. 3 co-op fix for Steam on Windows and Linux/Proton.
+Only the host needs the patch.
+
+Install
+---------------
+1. Close the game and open its folder through Steam > Manage > Browse local files.
+2. Back up steam_api.dll somewhere outside the game folder.
+3. Copy this download's steam_api.dll beside F.E.A.R. 3.exe, replacing the DLL.
+4. Start the game through Steam, host a private lobby and invite your friend.
+
+Uninstall
+---------------
+Restore your backed-up DLL or verify the game's files through Steam.
+
+Code is free to use
+---------------
+Anyone is free to use F3patch as a base for non-malicious improvements.
+Keep the included license notices.
+
+What F3patch does
+----------------
+F3patch automatically identifies the joining Steam friend and works around the
+Steam denial-12 disconnect while keeping the original Steam networking.
+
+Credits
+-------
+F3patch was developed with OpenAI’s ChatGPT/Codex, with testing and feedback provided by the project maintainer and community testers.
