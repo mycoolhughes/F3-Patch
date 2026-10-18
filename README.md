@@ -12,6 +12,10 @@ Install
 3. Copy this download's steam_api.dll and fear3-coopfix.ini beside F.E.A.R. 3.exe, replacing the DLL.
 4. Start the game through Steam, host a private lobby and invite your friend.
 
+The included ini has 2 options. 
+First option is to toggle the patch. the default value is 1, which means on.
+Second option is to toggle logging. the default value is 0, which means off. the purpose of this toggle is to help debug and figure out why the patch is not working. I was originally going to completely remove logging from the patch when uploading it, but thought it would help with debugging if anyone has issues later on.
+
 Uninstall
 ---------------
 Remove "steam_api.dll" and "fear3-coopfix.ini" then restore your backed-up DLL or verify the game's files through Steam.
